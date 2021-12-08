@@ -1,0 +1,8 @@
+/* styles are loaded the Shared CSS file located at:
+https://static.infragistics.com/xplatform/css/samples/
+*/
+:host ::ng-deep {
+  .financialChartIndicatorMenu , .financialChartTypePicker{
+    display: none !important;
+  }
+}
